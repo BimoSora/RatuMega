@@ -248,8 +248,6 @@ Now send your "mega.ini" file to your bot and as a reply to it send the command 
 * [Anjana](https://github.com/AnjanaMadu) for various helps!
 * [Dan](https://github.com/delivrance) for [pyrogram](https://github.com/Pyrogram)
 
-<b>Project written and created by</b> - [XMYSTERIOUSX](https://github.com/XMYSTERlOUSX)
-
 ---
 
 #### LICENSE
