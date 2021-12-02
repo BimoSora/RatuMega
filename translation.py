@@ -6,9 +6,7 @@ else:
     from config import Config
 
 class Translation(object):
-    START_TEXT = f"""<b>Hello there,</b>
-    
-I am a <b>Mega Link Downloader</b> bot!
+    START_TEXT = f"""I am a <b>Mega Link Downloader</b> bot!
 
 Just enter your mega.nz link and I will return the file/video to you!😇
 
